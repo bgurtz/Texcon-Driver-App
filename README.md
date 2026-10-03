@@ -58,7 +58,6 @@ Excel
 PDF
 Print
 Deployment
-Get it ready specifically for your 3iX hosting
 Environment variables
 Database location
 Upload directory
